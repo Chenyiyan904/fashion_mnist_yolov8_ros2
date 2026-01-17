@@ -1,0 +1,4 @@
+[console_scripts]
+publisher = fashion_mnist_ros2.publisher_node:main
+subscriber = fashion_mnist_ros2.subscriber_node:main
+

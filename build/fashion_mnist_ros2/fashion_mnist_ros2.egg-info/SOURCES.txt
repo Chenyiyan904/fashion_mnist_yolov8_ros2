@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+fashion_mnist_ros2/__init__.py
+fashion_mnist_ros2/publisher_node.py
+fashion_mnist_ros2/subscriber_node.py
+fashion_mnist_ros2.egg-info/PKG-INFO
+fashion_mnist_ros2.egg-info/SOURCES.txt
+fashion_mnist_ros2.egg-info/dependency_links.txt
+fashion_mnist_ros2.egg-info/entry_points.txt
+fashion_mnist_ros2.egg-info/requires.txt
+fashion_mnist_ros2.egg-info/top_level.txt
+fashion_mnist_ros2.egg-info/zip-safe
+resource/fashion_mnist_ros2

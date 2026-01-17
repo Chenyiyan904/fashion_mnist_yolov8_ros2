@@ -1,0 +1,25 @@
+[0.456s] Invoking command in '/home/cyy/fashion_mnist_yolov8_ros2/build/fashion_mnist_ros2': CONDA_PROMPT_MODIFIER=(yolov8_env) PYTHONPATH=/home/cyy/fashion_mnist_yolov8_ros2/build/fashion_mnist_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cyy/fashion_mnist_yolov8_ros2/install/fashion_mnist_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cyy/fashion_mnist_yolov8_ros2/build/fashion_mnist_ros2/build --no-deps symlink_data
+[0.647s] running develop
+[0.752s] running egg_info
+[0.753s] creating fashion_mnist_ros2.egg-info
+[0.753s] writing fashion_mnist_ros2.egg-info/PKG-INFO
+[0.753s] writing dependency_links to fashion_mnist_ros2.egg-info/dependency_links.txt
+[0.753s] writing entry points to fashion_mnist_ros2.egg-info/entry_points.txt
+[0.753s] writing requirements to fashion_mnist_ros2.egg-info/requires.txt
+[0.753s] writing top-level names to fashion_mnist_ros2.egg-info/top_level.txt
+[0.753s] writing manifest file 'fashion_mnist_ros2.egg-info/SOURCES.txt'
+[0.754s] reading manifest file 'fashion_mnist_ros2.egg-info/SOURCES.txt'
+[0.754s] writing manifest file 'fashion_mnist_ros2.egg-info/SOURCES.txt'
+[0.755s] running build_ext
+[0.755s] Creating /home/cyy/fashion_mnist_yolov8_ros2/install/fashion_mnist_ros2/lib/python3.10/site-packages/fashion-mnist-ros2.egg-link (link to .)
+[0.756s] Installing publisher script to /home/cyy/fashion_mnist_yolov8_ros2/install/fashion_mnist_ros2/lib/fashion_mnist_ros2
+[0.756s] Installing subscriber script to /home/cyy/fashion_mnist_yolov8_ros2/install/fashion_mnist_ros2/lib/fashion_mnist_ros2
+[0.757s] 
+[0.757s] Installed /home/cyy/fashion_mnist_yolov8_ros2/build/fashion_mnist_ros2
+[0.757s] running symlink_data
+[0.757s] creating /home/cyy/fashion_mnist_yolov8_ros2/install/fashion_mnist_ros2/share/ament_index
+[0.757s] creating /home/cyy/fashion_mnist_yolov8_ros2/install/fashion_mnist_ros2/share/ament_index/resource_index
+[0.757s] creating /home/cyy/fashion_mnist_yolov8_ros2/install/fashion_mnist_ros2/share/ament_index/resource_index/packages
+[0.757s] symbolically linking /home/cyy/fashion_mnist_yolov8_ros2/build/fashion_mnist_ros2/resource/fashion_mnist_ros2 -> /home/cyy/fashion_mnist_yolov8_ros2/install/fashion_mnist_ros2/share/ament_index/resource_index/packages
+[0.757s] symbolically linking /home/cyy/fashion_mnist_yolov8_ros2/build/fashion_mnist_ros2/package.xml -> /home/cyy/fashion_mnist_yolov8_ros2/install/fashion_mnist_ros2/share/fashion_mnist_ros2
+[0.779s] Invoked command in '/home/cyy/fashion_mnist_yolov8_ros2/build/fashion_mnist_ros2' returned '0': CONDA_PROMPT_MODIFIER=(yolov8_env) PYTHONPATH=/home/cyy/fashion_mnist_yolov8_ros2/build/fashion_mnist_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cyy/fashion_mnist_yolov8_ros2/install/fashion_mnist_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cyy/fashion_mnist_yolov8_ros2/build/fashion_mnist_ros2/build --no-deps symlink_data
